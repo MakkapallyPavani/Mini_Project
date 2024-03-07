@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    width:70%;
+    font-family: 'poppins', sans-serif;
+    background-color:white;
+}
+.user{
+    height: 100px;
+    width:400px;
+}
+.user input{
+    width:200px;
+    height: 20px;
+    border-radius:4px;
+     align-items: center;
+     position:relative;
+}
+.input-username{
+    align-items: center;
+}
+button{
+    background-color: blue;
+    color:white;
+    
+}
